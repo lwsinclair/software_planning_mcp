@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/captainji-software-planning-mcp-badge.png)](https://mseep.ai/app/captainji-software-planning-mcp)
+
 # 软件规划MCP服务器
 https://github.com/NightTrek/Software-planning-mcp 项目python版，方便使用sse接入cursor
 这个MCP服务器提供了软件开发规划工具，帮助用户制定实施计划和管理待办事项。
